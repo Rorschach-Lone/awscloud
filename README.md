@@ -1,2 +1,0 @@
-# awscloud
-course
